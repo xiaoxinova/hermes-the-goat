@@ -198,6 +198,7 @@ AUTHOR_MAP = {
     "liuhao1024@users.noreply.github.com": "liuhao1024",
     "annguyenNous@users.noreply.github.com": "annguyenNous",
     "285874597+annguyenNous@users.noreply.github.com": "annguyenNous",
+    "xiaoxinova@users.noreply.github.com": "xiaoxinova",
     "kylekahraman@users.noreply.github.com": "kylekahraman",
     "130975919+kylekahraman@users.noreply.github.com": "kylekahraman",
     "seppe@fushia.be": "seppegadeyne",
